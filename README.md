@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="PANDITHAN/Evil-Inside.jpeg" alt="Evil-Inside Logo">
+  <img src="PANDITHAN/Hrithik Roshan - 2.jpeg" alt="Hrithik Roshan Logo">
 </p>
 <h1 align="center">
   <b>Evil-Inside</b>
