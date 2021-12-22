@@ -34,6 +34,8 @@ PM_START_TEXT = """
 
 𝚈𝚘𝚞 𝚌𝚊𝚗 𝚏𝚒𝚗𝚍 𝚝𝚑𝚎 𝚕𝚒𝚜𝚝 𝚘𝚏 𝚊𝚟𝚊𝚒𝚕𝚊𝚋𝚕𝚎 𝚌𝚘𝚖𝚖𝚊𝚗𝚍𝚜 𝚠𝚒𝚝𝚑 /help
 
+❤️‍🔥 POWERED BY : @Filmy_Hangama
+#TFH
 """
 
 HELP_STRINGS = """
